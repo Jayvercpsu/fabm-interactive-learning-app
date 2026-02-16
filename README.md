@@ -6,12 +6,5 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FABM Interactive Learning App is a mobile-based educational application developed to enhance the learning retention and comprehension of Grade 11 ABM students in Fundamentals of Accountancy, Business, and Management 1 (FABM 1). The app provides structured lessons, simplified summaries, interactive exercises, and instant-feedback quizzes to help students better understand core accounting concepts. Designed to work fully offline, the system ensures accessibility, smooth performance, and an engaging, student-friendly learning experience.
 # fabm-interactive-learning-app
